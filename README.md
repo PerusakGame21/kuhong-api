@@ -2,9 +2,9 @@
 Halo! Selamat Datang di
 Rest Api Palsu :v
 
-## Contoh Kode
 
-## JavaScript
+## Contoh
+
 ```js
 const axios = require('axios')
 
