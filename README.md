@@ -7,7 +7,7 @@ Rest Api Palsu :v
 
 ## DOKUMENTASI
 
-| Features | Get | Status |
+| Fitur | Link | Status |
 | :-----------------: | :-------: | :-------: |
 | Asupan|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/asupan.js)|Active|
 | Quotes|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/quotes.js)|Active|
