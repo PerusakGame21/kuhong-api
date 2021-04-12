@@ -5,9 +5,11 @@ Rest Api Palsu :v
 
 
 
-### Fitur - fitur
+## DOKUMENTASI
 
-##### • Asupan : [`CLick Here`](https://raw.githubusercontent.com/RC047/kuhong-api/main/asupan.js)
+ Fitur-fitur | ACTIVE |
+| :-----------------: | :-------: |
+| Asupan|[`CLick Here`](https://raw.githubusercontent.com/RC047/kuhong-api/main/asupan.js)|
 ##### • Quotes : [`CLick Here`](https://raw.githubusercontent.com/RC047/kuhong-api/main/quotes.js)
 ##### • Dark Jokes : [`CLick Here`](https://raw.githubusercontent.com/RC047/kuhong-api/main/darkjokes.js)
 ##### • Tebak Gambar : [`CLick Here`](https://raw.githubusercontent.com/RC047/kuhong-api/main/tebakgambar.js)
@@ -18,4 +20,4 @@ Rest Api Palsu :v
 
 
 
-### Request? [`Hubungi Admin`](https://wa.me/62895337278647)
+#### Request? [`Hubungi Admin`](https://wa.me/62895337278647)
