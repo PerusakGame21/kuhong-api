@@ -1,6 +1,6 @@
 # kuhong-api
 
-Rest Api Palsu :v
+Rest Api Github :v
 
 # Fitur
 
