@@ -7,8 +7,8 @@ Rest Api Palsu :v
 
 ## DOKUMENTASI
 
- Fitur-fitur | ACTIVE |
-| :-----------------: | :-------: |
+ Fitur | GET | Status |
+| :-----------------: | :-------: | :-------: |
 | Asupan|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/asupan.js)|
 | Quotes|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/quotes.js)|
 | Dark Jokes|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/darkjokes.js)|
