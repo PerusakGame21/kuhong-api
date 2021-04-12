@@ -1,6 +1,8 @@
-# KUHONG REST API #
-Halo! Selamat Datang di
-Rest Api Palsu :v
+# Halo! Selamat Datang di Rest Api Palsu :v <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+<p align="center">
+<a href="https://github.com/RC047"><img src="https://raw.githubusercontent.com/RC047/kuhong-api/main/profile.png"></a>
+</p>
+<br>
 
 
 ## Contoh
