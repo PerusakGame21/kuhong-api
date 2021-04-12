@@ -9,14 +9,14 @@ Rest Api Palsu :v
 
  Fitur-fitur | ACTIVE |
 | :-----------------: | :-------: |
-| Asupan|[`CLick Here`](https://raw.githubusercontent.com/RC047/kuhong-api/main/asupan.js)|
-##### • Quotes : [`CLick Here`](https://raw.githubusercontent.com/RC047/kuhong-api/main/quotes.js)
-##### • Dark Jokes : [`CLick Here`](https://raw.githubusercontent.com/RC047/kuhong-api/main/darkjokes.js)
-##### • Tebak Gambar : [`CLick Here`](https://raw.githubusercontent.com/RC047/kuhong-api/main/tebakgambar.js)
-##### • Cak Lontong : [`CLick Here`](https://raw.githubusercontent.com/RC047/kuhong-api/main/caklontong.js)
-##### • Family100 : [`CLick Here`](https://raw.githubusercontent.com/RC047/kuhong-api/main/family100.js)
-##### • Simsimi : [`CLick Here`](https://raw.githubusercontent.com/RC047/kuhong-api/main/simsimi.js)
-##### • Bokep : [`CLick Here`](https://raw.githubusercontent.com/RC047/kuhong-api/main/bokep.js)
+| Asupan|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/asupan.js)|
+| Quotes|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/quotes.js)|
+| Dark Jokes|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/darkjokes.js)|
+| Tebak Gambar|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/tebakgambar.js)|
+| Cak Lontong|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/maincaklontong.js)|
+| Family 100|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/family100.js)|
+| Simsimi|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/simsimi.js)|
+| Bokep|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/bokep.js)|
 
 
 
