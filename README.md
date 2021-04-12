@@ -5,7 +5,7 @@
 <br>
 
 
-## Contoh
+## Contoh Kode
 
 ```js
 const axios = require('axios')
@@ -16,6 +16,7 @@ axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/quotes.js').t
    console.log(result.quotes)
 })
 ```
+
 
 ## DOKUMENTASI
 
@@ -32,5 +33,10 @@ axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/quotes.js').t
 | Bokep|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/bokep.js)|Aktif|
 
 
-#### Request? [`Hubungi Admin`](https://wa.me/62895337278647)
+# MEDIA SOSIAL
+
+#### YouTube : [`RC047`](https://www.youtube.com/c/RC047)
+#### Instagram : [`@rendycraft047`](https://www.instagram.com/rendycraft047)
+#### Kontak : [`WhatsApp`](https://wa.me/62895337278647)
+#### Donasi : [`RC047`](https://saweri.co/RC047)
 #### Creator : [`RC047`](https://Github.com/RC047)
