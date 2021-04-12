@@ -7,6 +7,7 @@ Rest Api Github :v
 ```bash
 • Asupan
 • Quotes
+• Dark Jokes
 • Tebak Gambar
 • Cak Lontong
 • Family100
