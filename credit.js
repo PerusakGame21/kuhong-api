@@ -1,4 +1,3 @@
 {
-  "creator": "RC047",
-  "credit": "Dibuat Oleh "
+  "credit": "Dibuat Oleh RC047"
 }
