@@ -21,3 +21,4 @@ Rest Api Palsu :v
 
 
 #### Request? [`Hubungi Admin`](https://wa.me/62895337278647)
+#### Creator : [`RC047`](https://Github.com/RC047)
