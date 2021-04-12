@@ -5,7 +5,7 @@ Rest Api Palsu :v
 ## Contoh Kode
 
 ## JavaScript
-```bash
+```js
 const axios = require('axios')
 
 axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/quotes.js').then((res) => {
