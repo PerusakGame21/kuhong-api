@@ -42,7 +42,7 @@
 {
     "result": {
         "creator": "RC047",
-        "soal": "https://tinyurl.com/ycnjssa35000",
+        "soal": "https://tinyurl.com/ycnjssa5",
         "jawaban": "Pecahan kaca",
         "poin": 35000
     }
@@ -90,7 +90,7 @@
 {
     "result": {
         "creator": "RC047",
-        "soal": "https://tinyurl.com/y7c350009fgx",
+        "soal": "https://tinyurl.com/y7c59fgx",
         "jawaban": "Kenyataan pahit",
         "poin": 35000
     }
@@ -130,7 +130,7 @@
 {
     "result": {
         "creator": "RC047",
-        "soal": "https://tinyurl.com/y7us35000qez",
+        "soal": "https://tinyurl.com/y7us5qez",
         "jawaban": "Sepiring papeda",
         "poin": 35000
     }
@@ -138,7 +138,7 @@
 {
     "result": {
         "creator": "RC047",
-        "soal": "https://tinyurl.com/ybx7350008q7",
+        "soal": "https://tinyurl.com/ybx758q7",
         "jawaban": "Keluaran terbagus",
         "poin": 35000
     }
@@ -170,7 +170,7 @@
 {
     "result": {
         "creator": "RC047",
-        "soal": "https://tinyurl.com/ybu4e35000aj",
+        "soal": "https://tinyurl.com/ybu4e5aj",
         "jawaban": "Sekarang saja",
         "poin": 35000
     }
@@ -210,7 +210,7 @@
 {
     "result": {
         "creator": "RC047",
-        "soal": "https://tinyurl.com/yasxc35000w6",
+        "soal": "https://tinyurl.com/yasxc5w6",
         "jawaban": "Pasang spanduk",
         "poin": 35000
     }
@@ -282,7 +282,7 @@
 {
     "result": {
         "creator": "RC047",
-        "soal": "https://tinyurl.com/y9436p350009",
+        "soal": "https://tinyurl.com/y9436p59",
         "jawaban": "Minum susu setiap malam agar sehat",
         "poin": 35000
     }
@@ -314,7 +314,7 @@
 {
     "result": {
         "creator": "RC047",
-        "soal": "https://tinyurl.com/y83500035000dd98",
+        "soal": "https://tinyurl.com/y855dd98",
         "jawaban": "Sampah plastik akan merusak ekosistem laut",
         "poin": 35000
     }
