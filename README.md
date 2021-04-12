@@ -1,9 +1,19 @@
-# KUHONG REST API
+# KUHONG REST API #
 Halo! Selamat Datang di
 Rest Api Palsu :v
 
+## Contoh Kode
 
+## JavaScript
+```bash
+const axios = require('axios')
 
+axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/quotes.js').then((res) => {
+ let random = Math.floor(Math.random() * res.data.length);
+ let result = res.data[random]
+   console.log(result.quotes)
+})
+```
 
 ## DOKUMENTASI
 
@@ -17,7 +27,6 @@ Rest Api Palsu :v
 | Family 100|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/family100.js)|Aktif|
 | Simsimi|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/simsimi.js)|Aktif|
 | Bokep|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/bokep.js)|Aktif|
-
 
 
 #### Request? [`Hubungi Admin`](https://wa.me/62895337278647)
