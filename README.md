@@ -21,6 +21,7 @@ axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/quotes.js').t
 | :-----------------: | :-------: | :-------: |
 | Asupan|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/asupan.js)|Aktif|
 | Quotes|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/quotes.js)|Aktif|
+| Bucin|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/bucin.js)|Aktif|
 | Dark Jokes|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/darkjokes.js)|Aktif|
 | Tebak Gambar|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/tebakgambar.js)|Aktif|
 | Cak Lontong|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/maincaklontong.js)|Aktif|
