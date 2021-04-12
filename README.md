@@ -38,5 +38,5 @@ axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/quotes.js').t
 #### YouTube : [`RC047`](https://www.youtube.com/c/RC047)
 #### Instagram : [`@rendycraft047`](https://www.instagram.com/rendycraft047)
 #### Kontak : [`WhatsApp`](https://wa.me/62895337278647)
-#### Donasi : [`RC047`](https://saweri.co/RC047)
+#### Donasi : [`Seikhlasnya :)`](https://saweria.co/RC047)
 #### Creator : [`RC047`](https://Github.com/RC047)
