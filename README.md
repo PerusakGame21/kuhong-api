@@ -4,6 +4,7 @@ Rest Api Palsu :v
 
 # Fitur
 
+```bash
 • Asupan
 • Quotes
 • Tebak Gambar
@@ -11,3 +12,4 @@ Rest Api Palsu :v
 • Family100
 • Simsimi
 • Bokep
+```
