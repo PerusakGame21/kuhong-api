@@ -1,4 +1,4 @@
 {
   "creator": "RC047",
-  "forbidden": "Apikey Invalid!\n\nSilahkan hubungi owner untuk beli apikey baru :)"
+  "message": "Apikey Invalid!\n\nSilahkan hubungi owner untuk beli apikey baru :)"
 }
