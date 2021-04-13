@@ -1,4 +1,4 @@
-# Selamat Datang Direst Api Github! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
+# Selamat Datang Di Rest Api Github! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="500px">
 
 ## Apikey? Chat Admin <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="30px">
@@ -47,7 +47,7 @@ axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh_gambar
 ## Dokumentasi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25px">
 
 | Nomor | Nama | Deskripsi | Status | Link |
-| :: | :-----------------: | :-----------------: | :-------: | :-------: |
+| :-: | :-----------------: | :-----------------: | :-------: | :-------: |
 | 1 | Test API Teks | Pratinjau Contoh Respon API Teks | - | [`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh.json)|
 | 2 | Test API Media | Pratinjau Contoh Respon API Media | - | [`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh_gambar.json)|
 | 3 | Anime | Mengirimkan Gambar Anime | Aktif  | [`Klik Disini`](https://tinyurl.com/4pk8n3ka)|
