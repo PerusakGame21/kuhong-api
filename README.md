@@ -1,5 +1,5 @@
 # Selamat Datang di Rest Api Github! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="600px">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="500px">
 
 ## Apikey? Chat Admin <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="30px">
 [`Klik Disini`](https://wa.me/62895337278647)
@@ -10,12 +10,12 @@
 $ npm install axios
 ```
 ```js
-const axios = require('axios')
+const axios = require('axios') // Module dibutuhkan untuk menggunakannya
 
-axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh.json').then((res) => {
- let random = Math.floor(Math.random() * res.data.length)
- let data = res.data[random]
-   console.log(data.result)
+axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh.json').then((res) => { // Scrap web
+ let random = Math.floor(Math.random() * res.data.length) // Acak objek
+ let data = res.data[random] // Setelah diacak arahkan ke teks sesuai nama
+   console.log(data.result) // Ta Daa
 })
 
 // Note : Link harus teks raw (https://raw.githubusercontent.com)
