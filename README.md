@@ -29,8 +29,8 @@ axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh.json')
 
 | Nama | Deskripsi | Status | Apikey | Link |
 | :-----------------: | :-----------------: | :-------: | :-------: | :-------: |
-| Anime | Mengirimkan Gambar Anime | Aktif | Yes | [`Klik Disini`](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiZ00yTFZreVVVS0grLzJZaG5FdjJ2bndGREJoTDFndmtOTnJHQmFScEJ0dUMvNUVQdXJGVFEyYkl2bCt5dllSVHZUWHJQNlBPMkl4TWNmTy8wWlNwQStFWVpkMy9WVlhTMHBCNDJSNW9EeDFmM1gzK2VvMXlQVmV1WkpyT3lXbkxaZWlRa1NzSU90eHQzRVo1ZUMwSkVMeGFNMm5KK09kb241bVVyRDRPaUhGODhRPT0iLCJoIjoiU2lsYWhrYW4gTWFzdWthbiBBcGlrZXltdSBEaXNpbmkgOikiLCJpIjoiT1BNY1NzeCtlaVFxRlV6dSJ9)
-| Asupan | Penyegar Timeline :v | Aktif | Yes | [`Klik Disini`](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoicjJ3WUZmVFF6UVpJalVUMmllRysyalNEV0V4cHZpdzI2aU1LUzNEOVVCSHNsTFlvZE1qMzEyOXE4eDVHemZWMEh2TjVBTG85RHJoR2h1eFZWQW95SWNPelVWa3pCcUxOZjlnR2lOajJFMzBMVVhnN1g1RUNTMHdZRlRveEg3TXVkUitLSmxzdDZpSG1sa1FrZ0R1MHhmQ0M3OUpEbTliSUxOMlVLRG13T3FuYXVGWT0iLCJoIjoiU2lsYWhrYW4gTWFzdWthbiBBcGlrZXltdSBEaXNpbmkgOikiLCJpIjoiSTNnTjRGQTg4bjZxb2VIdyJ9)
+| Anime | Mengirimkan Gambar Anime | Aktif | Yes | [`Klik Disini`](https://tinyurl.com/4pk8n3ka)
+| Asupan | Penyegar Timeline :v | Aktif | Yes | [`Klik Disini`](https://tinyurl.com/uzmk2ytz)
 
 
 # MEDIA SOSIAL
