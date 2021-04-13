@@ -7,7 +7,7 @@
 ## Contoh Kode (JavaScript) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px">
 
 ```bash
-$ npm install axios
+$ npm install axios // install module web scrapper
 ```
 ```js
 const axios = require('axios') // Module yg dibutuhkan untuk menscrap website
@@ -36,10 +36,10 @@ axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh.json')
 | Bucin | Mengirimkan Kata Bucin | Aktif | [`Klik Disini`](https://tinyurl.com/2mz7s5p7)
 | CakLontong | Mengirimkan Soal CakLontong | Aktif | [`Klik Disini`](https://tinyurl.com/9u6vmeyw)
 | CantikCek | Menentukan Seberapa Cantiknya Anda | Aktif | [`Klik Disini`](https://tinyurl.com/bp6rmrjm)
-| CakLontong | Mengirimkan Soal CakLontong | Aktif | [`Klik Disini`](https://tinyurl.com/9u6vmeyw)
-| CantikCek | Menentukan Seberapa Cantiknya Anda | Aktif | [`Klik Disini`](https://tinyurl.com/bp6rmrjm)
 | Cecan | Mengirimkan Gambar Cewek Cantik | Aktif | [`Klik Disini`](https://tinyurl.com/y6cd972d)
 | Cogan | Mengirimkan Gambar Cowok Ganteng | Aktif | [`Klik Disini`](https://tinyurl.com/55zkyvsw)
+| Dadu | Permainan Dadu | Aktif | [`Klik Disini`](https://tinyurl.com/RC047)
+| Dadu Gambar | Permainan Dadu Versi Gambar | Aktif | [`Klik Disini`](https://tinyurl.com/35m7xnac)
 
 # MEDIA SOSIAL <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">
 
