@@ -4,7 +4,7 @@
 </p>
 <br>
 
-## Apikey? Chat Admin [`WhatsApp`](https://wa.me/62895337278647)
+### Apikey? Chat Admin [`Klik Disini`](https://wa.me/62895337278647)
 
 ## Contoh Kode (JavaScript)
 
