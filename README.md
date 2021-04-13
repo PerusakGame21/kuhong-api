@@ -1,10 +1,10 @@
-# SELAMAT DATANG DIREST API GITHUB! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
+# Selamat Datang Direst Api Github! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="500px">
 
 ## Apikey? Chat Admin <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="30px">
 [`Apikeynya Gratis kok gan,, tenang aja :D`](https://wa.me/62895337278647?text=Bang%20Minta%20Apikey%20Kuhong-Api%20)
 
-## CONTOH KODE <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px">
+## Contoh Kode <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px">
 
 ### Untuk Teks (Non-Media)
 ```bash
@@ -44,10 +44,10 @@ axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh_gambar
 // Note : Respon akan berupa teks buffer,, gunakan alat seperti media sender agar merespon menjadi media gambar/video
 ```
 
-## DOKUMENTASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25px">
+## Dokumentasi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25px">
 
 | Nomor | Nama | Deskripsi | Status | Link |
-| :-: | :-----------------: | :-----------------: | :-------: | :-------: |
+| :: | :-----------------: | :-----------------: | :-------: | :-------: |
 | 1 | Test API Teks | Pratinjau Contoh Respon API Teks | - | [`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh.json)|
 | 2 | Test API Media | Pratinjau Contoh Respon API Media | - | [`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh_gambar.json)|
 | 3 | Anime | Mengirimkan Gambar Anime | Aktif  | [`Klik Disini`](https://tinyurl.com/4pk8n3ka)|
@@ -58,7 +58,7 @@ axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh_gambar
 | 8 | Bokep | Mengirimkan Gambar 18+ | Aktif | [`Klik Disini`](https://tinyurl.com/p8xf5e6s)|
 | 9 | Bucin | Mengirimkan Kata Bucin | Aktif | [`Klik Disini`](https://tinyurl.com/2mz7s5p7)|
 | 10 | Cak Lontong | Mengirimkan Soal Cak Lontong | Aktif | [`Klik Disini`](https://tinyurl.com/9u6vmeyw)|
-| 11 |Cantik Cek | Menentukan Seberapa Cantiknya Anda | Aktif | [`Klik Disini`](https://tinyurl.com/bp6rmrjm)|
+| 11 | Cantik Cek | Menentukan Seberapa Cantiknya Anda | Aktif | [`Klik Disini`](https://tinyurl.com/bp6rmrjm)|
 | 12 | Cecan | Mengirimkan Gambar Cewek Cantik | Aktif | [`Klik Disini`](https://tinyurl.com/y6cd972d)|
 | 13 | Cogan | Mengirimkan Gambar Cowok Ganteng | Aktif | [`Klik Disini`](https://tinyurl.com/55zkyvsw)|
 | 14 | Dadu | Permainan Dadu | Aktif | [`Klik Disini`](https://tinyurl.com/RC047)|
@@ -80,7 +80,7 @@ axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh_gambar
 | 30 | Tolol Cek | Menentukan Seberapa Tololnya Anda | Aktif | [`Klik Disini`](https://tinyurl.com/28evtju2)|
 
 
-# MEDIA SOSIAL <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">
+# Media Sosial <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">
 
 #### YouTube : [`RC047`](https://www.youtube.com/c/RC047)
 #### Instagram : [`@rendycraft047`](https://www.instagram.com/rendycraft047)
