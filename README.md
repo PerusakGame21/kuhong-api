@@ -4,10 +4,7 @@
 </p>
 <br>
 
-# Note :
-Ini Adalah Random Api
-
-Apikey? Chat Admin
+# Apikey? Chat Admin
 [`WhatsApp`](https://wa.me/62895337278647)
 
 ## Contoh Kode (JavaScript)
@@ -17,8 +14,8 @@ const axios = require('axios')
 
 axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh.json').then((res) => {
  let random = Math.floor(Math.random() * res.data.length)
- let result = res.data[random]
-   console.log(result.test)
+ let data = res.data[random]
+   console.log(data.result)
 })
 
 // Note : Link harus teks raw (https://raw.githubusercontent.com)
