@@ -1,6 +1,5 @@
-<br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+# Selamat Datang di Rest Api Palsu :v <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="60px">
 <p align="center">
-# Selamat Datang di Rest Api Palsu :v
 <a href="https://github.com/RC047"><img src="https://raw.githubusercontent.com/RC047/kuhong-api/main/pp.png"></a>
 </p>
 <br>
