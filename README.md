@@ -4,7 +4,8 @@
 </p>
 <br>
 
-### Apikey? Chat Admin [`Klik Disini`](https://wa.me/62895337278647)
+## Apikey? Chat Admin <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="10px">
+[`Klik Disini`](https://wa.me/62895337278647)
 
 ## Contoh Kode (JavaScript)
 
