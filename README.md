@@ -4,8 +4,9 @@
 ## Apikey? Chat Admin <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="30px">
 [`Apikeynya Gratis kok gan,, tenang aja :D`](https://wa.me/62895337278647?text=Bang%20Minta%20Apikey%20Kuhong-Api%20)
 
-## Contoh Kode (JavaScript) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px">
+## Contoh Kode <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px">
 
+### Untuk Teks (Non-Media)
 ```bash
 $ npm install axios
 ```
@@ -18,9 +19,30 @@ axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh.json')
    console.log(data.result) // Ta Daa
 })
 
+
+
 // Note : Link harus teks raw (https://raw.githubusercontent.com)
 ```
+### Untuk Gambar/Video (Media)
+```bash
+$ npm install axios
+$ npm install image-to-base64
+```
+```js
+const imageToBase64 = require('image-to-base64') // Untuk mengubah menjadi gambar
+const axios = require('axios') // Module yg dibutuhkan untuk menscrap website
 
+axios.get('https://raw.githubusercontent.com/herokuapp-com/kuhong-api/main/api/memeindo.json').then((res) => { // Scrap web
+ let random = Math.floor(Math.random() * res.data.length) // Acak objek
+ let data = res.data[random] // Setelah diacak arahkan ke teks respon sesuai nama diweb
+  imageToBase64(data.meme).then((result) => { // Ubah menjadi gambar
+   let hasil = Buffer.from(result, 'base64') // Konversi teks base64 ke gambar/video
+     console.log(hasil) // Ta Daa
+   })
+})
+
+// Note : Respon akan berupa teks buffer,, gunakan alat seperti media sender agar merespon menjadi media gambar/video
+```
 
 ## DOKUMENTASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25px">
 
