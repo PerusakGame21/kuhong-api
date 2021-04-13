@@ -2,7 +2,7 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="500px">
 
 ## Apikey? Chat Admin <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="30px">
-[`Klik Disini`](https://wa.me/62895337278647)
+[`Minta Apikey`](https://wa.me/62895337278647)
 
 ## Contoh Kode (JavaScript) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px">
 
