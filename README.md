@@ -1,7 +1,5 @@
 # Selamat Datang di Rest Api Github! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
-<p align="center">
-<a href="https://github.com/RC047"><img src="https://raw.githubusercontent.com/RC047/kuhong-api/main/pp.png"></a>
-</p>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="100px">
 
 ## Apikey? Chat Admin <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="30px">
 [`Klik Disini`](https://wa.me/62895337278647)
