@@ -24,7 +24,7 @@ axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh.json')
 ```
 
 
-## DOKUMENTASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20px">
+## DOKUMENTASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25px">
 
 | Nama | Deskripsi | Status | Link |
 | :-----------------: | :-----------------: | :-------: | :-------: |
@@ -39,7 +39,7 @@ axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh.json')
 | BTS | Mengirimkan Gambar BTS | Aktif | [`Klik Disini`](https://tinyurl.com/uyd3kw74)
 
 
-# MEDIA SOSIAL <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="40px">
+# MEDIA SOSIAL <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">
 
 #### YouTube : [`RC047`](https://www.youtube.com/c/RC047)
 #### Instagram : [`@rendycraft047`](https://www.instagram.com/rendycraft047)
