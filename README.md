@@ -9,7 +9,7 @@
 ## Contoh Kode (JavaScript)
 
 ```bash
-> npm install axios
+$ npm install axios
 ```
 ```js
 const axios = require('axios')
