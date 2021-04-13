@@ -4,7 +4,8 @@
 </p>
 <br>
 
-## Ini Adalah Random Api
+# Note :
+Ini Adalah Random Api
 
 ## Contoh Kode (JavaScript)
 
