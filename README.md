@@ -20,17 +20,9 @@ axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/quotes.js').t
 
 ## DOKUMENTASI
 
-| Fitur | Link | Status |
-| :-----------------: | :-------: | :-------: |
-| Asupan|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/asupan.js)|Aktif|
-| Quotes|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/quotes.js)|Aktif|
-| Bucin|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/bucin.js)|Aktif|
-| Dark Jokes|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/darkjokes.js)|Aktif|
-| Tebak Gambar|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/tebakgambar.js)|Aktif|
-| Cak Lontong|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/maincaklontong.js)|Aktif|
-| Family 100|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/family100.js)|Aktif|
-| Simsimi|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/simsimi.js)|Aktif|
-| Bokep|[`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/bokep.js)|Aktif|
+| Nama | Deskripsi | Status | Link |
+| :-----------------: | :-----------------: | :-------: | :-------: |
+| Anime | Mengirim Gambar Anime Secara Acak | Aktif | [`Klik Disini`](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiNnBhRW5GRWxHQ1BNcjBqcUFEbFhKdGVHdU1PWWRVL1RYZ21lcjZTNkhvOExsMWlnZU9hc1l3SEVQVEhSRFF5TUltbXNlTXkzV0lvcHd2MGpTNGFncWNMTzZzWWdDcWhJb0c1Ti9EQ1ZsRTVhYkRpUGNZbWJNOUJhWWxuYmkremxzY3N0bmgzdWRMU0ZGc1FxSUxoRFdhWjA2emhrNUM2alVGVDhSclkzSitaeU1BPT0iLCJoIjoiU2lsYWhrYW4gTWFzdWthbiBBcGlrZXltdSBEaXNpbmkgOikiLCJpIjoiVjdPUEdDc1k1Z3Yvem5OcyJ)
 
 
 # MEDIA SOSIAL
