@@ -14,7 +14,7 @@ const axios = require('axios') // Module dibutuhkan untuk menggunakannya
 
 axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh.json').then((res) => { // Scrap web
  let random = Math.floor(Math.random() * res.data.length) // Acak objek
- let data = res.data[random] // Setelah diacak arahkan ke teks sesuai nama
+ let data = res.data[random] // Setelah diacak arahkan ke teks respon sesuai nama diweb
    console.log(data.result) // Ta Daa
 })
 
