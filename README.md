@@ -27,10 +27,10 @@ axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh.json')
 
 ## DOKUMENTASI
 
-| Nama | Deskripsi | Status | Apikey | Link |
-| :-----------------: | :-----------------: | :-------: | :-------: | :-------: |
-| Anime | Mengirimkan Gambar Anime | Aktif | Yes | [`Klik Disini`](https://tinyurl.com/4pk8n3ka)
-| Asupan | Penyegar Timeline :v | Aktif | Yes | [`Klik Disini`](https://tinyurl.com/uzmk2ytz)
+| Nama | Deskripsi | Status | Link |
+| :-----------------: | :-----------------: | :-------: | :-------: |
+| Anime | Mengirimkan Gambar Anime | Aktif  | [`Klik Disini`](https://tinyurl.com/4pk8n3ka)
+| Asupan | Penyegar Timeline :v | Aktif | [`Klik Disini`](https://tinyurl.com/uzmk2ytz)
 
 
 # MEDIA SOSIAL
