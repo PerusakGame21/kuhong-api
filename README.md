@@ -24,7 +24,7 @@ axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh.json')
 ```
 
 
-## DOKUMENTASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="30px">
+## DOKUMENTASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25px">
 
 | Nama | Deskripsi | Status | Link |
 | :-----------------: | :-----------------: | :-------: | :-------: |
