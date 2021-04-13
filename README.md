@@ -26,6 +26,7 @@ axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh.json')
 
 | Nama | Deskripsi | Status | Link |
 | :-----------------: | :-----------------: | :-------: | :-------: |
+| Test API | Pratinjau & Contoh Respon API | Ini Hanya API Tester | [`Klik Disini`](https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh.json)
 | Anime | Mengirimkan Gambar Anime | Aktif  | [`Klik Disini`](https://tinyurl.com/4pk8n3ka)
 | Asupan | Megirimkan Video Penyegar Timeline | Aktif | [`Klik Disini`](https://tinyurl.com/uzmk2ytz)
 | Berita | Mengirimkan Informasi Berita Terkini | Aktif | [`Klik Disini`](https://tinyurl.com/3rxhkzve)
