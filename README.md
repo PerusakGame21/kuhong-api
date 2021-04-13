@@ -7,6 +7,9 @@
 # Note :
 Ini Adalah Random Api
 
+Apikey? Chat Admin
+[`WhatsApp`](https://wa.me/62895337278647)
+
 ## Contoh Kode (JavaScript)
 
 ```js
