@@ -1,4 +1,4 @@
-# Selamat Datang di Rest Api Gitub! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
+# Selamat Datang di Rest Api Github! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
 <p align="center">
 <a href="https://github.com/RC047"><img src="https://raw.githubusercontent.com/RC047/kuhong-api/main/pp.png"></a>
 </p>
@@ -38,7 +38,7 @@ axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh.json')
 | CakLontong | Mengirimkan Soal CakLontong | Aktif | [`Klik Disini`](https://tinyurl.com/9u6vmeyw)
 | BTS | Mengirimkan Gambar BTS | Aktif | [`Klik Disini`](https://tinyurl.com/uyd3kw74)
 
-# MEDIA SOSIAL <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="30px">
+# MEDIA SOSIAL <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="50px">
 
 #### YouTube : [`RC047`](https://www.youtube.com/c/RC047)
 #### Instagram : [`@rendycraft047`](https://www.instagram.com/rendycraft047)
