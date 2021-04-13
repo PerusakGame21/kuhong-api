@@ -10,10 +10,10 @@
 ```js
 const axios = require('axios')
 
-axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/quotes.js').then((res) => {
+axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh.json').then((res) => {
  let random = Math.floor(Math.random() * res.data.length)
  let result = res.data[random]
-   console.log(result.quotes)
+   console.log(result.test)
 })
 ```
 
