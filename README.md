@@ -2,7 +2,6 @@
 <p align="center">
 <a href="https://github.com/RC047"><img src="https://raw.githubusercontent.com/RC047/kuhong-api/main/pp.png"></a>
 </p>
-<br>
 
 ## Apikey? Chat Admin <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="30px">
 [`Klik Disini`](https://wa.me/62895337278647)
@@ -39,7 +38,7 @@ axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh.json')
 | CakLontong | Mengirimkan Soal CakLontong | Aktif | [`Klik Disini`](https://tinyurl.com/9u6vmeyw)
 | BTS | Mengirimkan Gambar BTS | Aktif | [`Klik Disini`](https://tinyurl.com/uyd3kw74)
 
-# MEDIA SOSIAL
+# MEDIA SOSIAL <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="30px">
 
 #### YouTube : [`RC047`](https://www.youtube.com/c/RC047)
 #### Instagram : [`@rendycraft047`](https://www.instagram.com/rendycraft047)
