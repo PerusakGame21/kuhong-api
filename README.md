@@ -7,7 +7,7 @@
 ## Contoh Kode (JavaScript) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px">
 
 ```bash
-$ npm install axios // install module web scrapper
+$ npm install axios
 ```
 ```js
 const axios = require('axios') // Module yg dibutuhkan untuk menscrap website
@@ -33,7 +33,7 @@ axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh.json')
 | Black Pink | Mengirimkan Gambar BlackPink | Aktif | [`Klik Disini`](https://tinyurl.com/2mz7s5p7)
 | Bokep | Mengirimkan Gambar 18+ | Aktif | [`Klik Disini`](https://tinyurl.com/p8xf5e6s)
 | Bucin | Mengirimkan Kata Bucin | Aktif | [`Klik Disini`](https://tinyurl.com/2mz7s5p7)
-| Cak Lontong | Mengirimkan Soal CakLontong | Aktif | [`Klik Disini`](https://tinyurl.com/9u6vmeyw)
+| Cak Lontong | Mengirimkan Soal Caklontong | Aktif | [`Klik Disini`](https://tinyurl.com/9u6vmeyw)
 | Cantik Cek | Menentukan Seberapa Cantiknya Anda | Aktif | [`Klik Disini`](https://tinyurl.com/bp6rmrjm)
 | Cecan | Mengirimkan Gambar Cewek Cantik | Aktif | [`Klik Disini`](https://tinyurl.com/y6cd972d)
 | Cogan | Mengirimkan Gambar Cowok Ganteng | Aktif | [`Klik Disini`](https://tinyurl.com/55zkyvsw)
@@ -41,6 +41,12 @@ axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh.json')
 | Dadu Gambar | Permainan Dadu Versi Gambar | Aktif | [`Klik Disini`](https://tinyurl.com/35m7xnac)
 | Dark Jokes | Mengirimkan Gambar Meme Gelap | Aktif | [`Klik Disini`](https://tinyurl.com/h3htsafa)
 | EXO | Mengirimkan Gambar EXO | Aktif | [`Klik Disini`](https://tinyurl.com/nufwzm5u)
+| Family 100 | Mengirimkan Soal Family100 | Aktif | [`Klik Disini`](https://tinyurl.com/2sz8umxa)
+| Ganteng Cek | Menentukan Seberapa Gantengnya Anda | Aktif | [`Klik Disini`](https://tinyurl.com/ysnm3knb)
+| Gay Cek | Menentukan Seberapa Gaynya Anda | Aktif | [`Klik Disini`](https://tinyurl.com/k4cu97p9)
+| Gombal | Mengirimkan Kata Gombalan | Aktif | [`Klik Disini`](https://tinyurl.com/rn5saa75)
+| IQ Test | Menentukan Seberapa Pintarnya Anda | Aktif | [`Klik Disini`](https://tinyurl.com/r6ufaue6)
+| Meme Indo | Mengirimkan Gambar Meme Indonesia | Aktif | [`Klik Disini`](https://tinyurl.com/w89z8tka)
 
 # MEDIA SOSIAL <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">
 
