@@ -5,7 +5,7 @@
 <br>
 
 
-## Contoh Kode
+## Contoh Kode (JavaScript)
 
 ```js
 const axios = require('axios')
@@ -20,9 +20,9 @@ axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/quotes.js').t
 
 ## DOKUMENTASI
 
-| Nama | Deskripsi | Status | Link |
-| :-----------------: | :-----------------: | :-------: | :-------: |
-| Anime | Mengirim Gambar Anime Secara Acak | Aktif | [`Klik Disini`](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiNnBhRW5GRWxHQ1BNcjBqcUFEbFhKdGVHdU1PWWRVL1RYZ21lcjZTNkhvOExsMWlnZU9hc1l3SEVQVEhSRFF5TUltbXNlTXkzV0lvcHd2MGpTNGFncWNMTzZzWWdDcWhJb0c1Ti9EQ1ZsRTVhYkRpUGNZbWJNOUJhWWxuYmkremxzY3N0bmgzdWRMU0ZGc1FxSUxoRFdhWjA2emhrNUM2alVGVDhSclkzSitaeU1BPT0iLCJoIjoiU2lsYWhrYW4gTWFzdWthbiBBcGlrZXltdSBEaXNpbmkgOikiLCJpIjoiVjdPUEdDc1k1Z3Yvem5OcyJ9)
+| Nama | Deskripsi | Status | Apikey | Link |
+| :-----------------: | :-----------------: | :-------: | :-------: | :-------: |
+| Anime | Mengirim Gambar Anime Secara Acak | Aktif | Yes | [`Klik Disini`](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiNnBhRW5GRWxHQ1BNcjBqcUFEbFhKdGVHdU1PWWRVL1RYZ21lcjZTNkhvOExsMWlnZU9hc1l3SEVQVEhSRFF5TUltbXNlTXkzV0lvcHd2MGpTNGFncWNMTzZzWWdDcWhJb0c1Ti9EQ1ZsRTVhYkRpUGNZbWJNOUJhWWxuYmkremxzY3N0bmgzdWRMU0ZGc1FxSUxoRFdhWjA2emhrNUM2alVGVDhSclkzSitaeU1BPT0iLCJoIjoiU2lsYWhrYW4gTWFzdWthbiBBcGlrZXltdSBEaXNpbmkgOikiLCJpIjoiVjdPUEdDc1k1Z3Yvem5OcyJ9)
 
 
 # MEDIA SOSIAL
