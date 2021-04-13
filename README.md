@@ -29,9 +29,14 @@ axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh.json')
 | Nama | Deskripsi | Status | Link |
 | :-----------------: | :-----------------: | :-------: | :-------: |
 | Anime | Mengirimkan Gambar Anime | Aktif  | [`Klik Disini`](https://tinyurl.com/4pk8n3ka)
-| Asupan | Penyegar Timeline :v | Aktif | [`Klik Disini`](https://tinyurl.com/uzmk2ytz)
-| Berita | Informasi Berita Terkini | Aktif | [`Klik Disini`](https://tinyurl.com/3rxhkzve)
-| Black Pink | Mengirimkan Gambar BlackPink | Aktif | [`Klik Disini`](https://tinyurl.com/2mz7s5p7)
+| Asupan | Megirimkan Video Penyegar Timeline | Aktif | [`Klik Disini`](https://tinyurl.com/uzmk2ytz)
+| Berita | Mengirimkan Informasi Berita Terkini | Aktif | [`Klik Disini`](https://tinyurl.com/3rxhkzve)
+| BlackPink | Mengirimkan Gambar BlackPink | Aktif | [`Klik Disini`](https://tinyurl.com/2mz7s5p7)
+| Bokep | Mengirimkan Gambar 18+ | Aktif | [`Klik Disini`](https://tinyurl.com/p8xf5e6s)
+| BTS | Mengirimkan Gambar BTS | Aktif | [`Klik Disini`](https://tinyurl.com/uyd3kw74)
+| Bucin | Mengirimkan Kata Bucin | Aktif | [`Klik Disini`](https://tinyurl.com/2mz7s5p7)
+| CakLontong | Mengirimkan Soal CakLontong | Aktif | [`Klik Disini`](https://tinyurl.com/9u6vmeyw)
+| BTS | Mengirimkan Gambar BTS | Aktif | [`Klik Disini`](https://tinyurl.com/uyd3kw74)
 
 # MEDIA SOSIAL
 
