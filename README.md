@@ -6,7 +6,7 @@
 ## Apikey? Chat Admin <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="30px">
 [`Klik Disini`](https://wa.me/62895337278647)
 
-## Contoh Kode (JavaScript)
+## Contoh Kode (JavaScript) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px">
 
 ```bash
 $ npm install axios
