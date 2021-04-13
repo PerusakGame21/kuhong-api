@@ -8,6 +8,9 @@
 
 ## Contoh Kode (JavaScript)
 
+```bash
+> npm install axios
+```
 ```js
 const axios = require('axios')
 
