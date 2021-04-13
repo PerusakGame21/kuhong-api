@@ -32,10 +32,10 @@ $ npm install image-to-base64
 const imageToBase64 = require('image-to-base64') // Untuk mengubah menjadi gambar
 const axios = require('axios') // Module yg dibutuhkan untuk menscrap website
 
-axios.get('https://raw.githubusercontent.com/herokuapp-com/kuhong-api/main/api/memeindo.json').then((res) => { // Scrap web
+axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh_gambar.json').then((res) => { // Scrap web
  let random = Math.floor(Math.random() * res.data.length) // Acak objek
  let data = res.data[random] // Setelah diacak arahkan ke teks respon sesuai nama diweb
-  imageToBase64(data.meme).then((result) => { // Ubah menjadi gambar
+  imageToBase64(data.gambar).then((result) => { // Ubah menjadi gambar
    let hasil = Buffer.from(result, 'base64') // Konversi teks base64 ke gambar/video
      console.log(hasil) // Ta Daa
    })
