@@ -10,7 +10,7 @@
 $ npm install axios
 ```
 ```js
-const axios = require('axios') // Module dibutuhkan untuk menscrap website
+const axios = require('axios') // Module yg dibutuhkan untuk menscrap website
 
 axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh.json').then((res) => { // Scrap web
  let random = Math.floor(Math.random() * res.data.length) // Acak objek
