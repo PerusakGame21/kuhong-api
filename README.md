@@ -2,7 +2,8 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="500px">
 
 ## Apikey? Chat Admin <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="30px">
-[`Apikeynya Gratis kok gan,, tenang aja :D`](https://wa.me/62895337278647?text=Bang%20Minta%20Apikey%20Kuhong-Api%20)
+[`Kontak Saya`](https://wa.me/62895337278647?text=Bang%20Minta%20Apikey%20Kuhong-Api%20)
+Apikeynya Gratis kok gan,, tenang aja :D
 
 ## Contoh Kode <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px">
 
