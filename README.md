@@ -44,7 +44,7 @@ axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh_gambar
 
 // Note : Respon akan berupa teks buffer,, gunakan alat seperti media sender agar merespon menjadi media gambar/video
 ```
-<br>
+
 ## Dokumentasi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25px">
 
 | Nomor | Nama | Deskripsi | Status | Link |
@@ -79,7 +79,13 @@ axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh_gambar
 | 28 | Syair | Mengirimkan Kata Syair | Aktif | [`Klik Disini`](https://tinyurl.com/y8z932xm)|
 | 29 | Tebak Gambar | Mengirimkan Soal Tebak Gambar | Aktif | [`Klik Disini`](https://tinyurl.com/vew8855a)|
 | 30 | Tolol Cek | Menentukan Seberapa Tololnya Anda | Aktif | [`Klik Disini`](https://tinyurl.com/28evtju2)|
-<br>
+
+
+
+
+
+
+
 # Media Sosial <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">
 
 #### YouTube : [`RC047`](https://www.youtube.com/c/RC047)
