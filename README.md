@@ -79,7 +79,7 @@ axios.get('https://raw.githubusercontent.com/RC047/kuhong-api/main/contoh_gambar
 | 28 | Syair | Mengirimkan Kata Syair | Aktif | [`Klik Disini`](https://tinyurl.com/y8z932xm)|
 | 29 | Tebak Gambar | Mengirimkan Soal Tebak Gambar | Aktif | [`Klik Disini`](https://tinyurl.com/vew8855a)|
 | 30 | Tolol Cek | Menentukan Seberapa Tololnya Anda | Aktif | [`Klik Disini`](https://tinyurl.com/28evtju2)|
-
+| 31 | Bacot | Mengirimkan Kata Bacotan | Aktif | [`Klik Disini`](https://tinyurl.com/y3nekvje)|
 
 
 
